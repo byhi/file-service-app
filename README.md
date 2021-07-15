@@ -1,2 +1,2 @@
-# file-service-app
+# File Service App
 It's a file server app
